@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/text-processor.qml</file>
+        <file>qml/pages/TextProcessorPage.qml</file>
+    </qresource>
+</RCC>
